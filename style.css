@@ -33,7 +33,10 @@ a {
   text-decoration: none;
   background-color: transparent;
 }
-
+.banner-navigation {
+  display: inline-block;
+  margin-bottom: 60px;
+}
 a:hover {
   color: #5641df;
   text-decoration: underline;
